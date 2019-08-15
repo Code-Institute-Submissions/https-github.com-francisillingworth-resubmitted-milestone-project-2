@@ -63,7 +63,7 @@ function initMap() {
         lat: 52.480091,
         lng: -1.901524
     }, {
-     
+
         /*n-sushi passion*/
         lat: 52.481920,
         lng: -1.897233
@@ -84,7 +84,7 @@ function initMap() {
         lng: -1.903441
 
     }, {
-           /*r-bullring*/
+        /*r-bullring*/
         lat: 52.478458,
         lng: -1.895051
 
