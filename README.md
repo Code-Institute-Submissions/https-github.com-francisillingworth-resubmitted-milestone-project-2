@@ -25,6 +25,16 @@ website visitor but also in a way reflect the redbrick buildings that Birmingham
 The webiste is obviously simplified, there is a lot more actual content that I would like to add over time but I feel what I have added in provides a good stage to display some of the skills
 taught in interactive frontend development.
 
+## User Stories
+
+### Looking for somewhere to stay
+
+Because the webapp is a single page navigating the page is most easily done through the internal page links. The easiest way to find somewhere to stay would to to click the 'Where to stay' link in the nav bar or nav dropdown. You can also find the 'Where can I stay' links within the first cards below the openeing paragraph which provide more specificity as to what part of Where to stay section of the webpage you are taken to. By clicking on any of these links you will be taken to the 'Where to stay section' where there is lots of information about where you can stay in each part of town along with external links to each hotels website. 
+
+### Looking for more information
+
+If the webapp doesn't provide all the information required for the user they can fill in the 'Contact Us' form at the bottom of index.html. By providing a name, email address and question in the form and submitting this it will send an email to the site administrator with all the information needed to respond to the user.
+
 ## Technologies
 
 1)HTML5  
@@ -66,7 +76,7 @@ I felt that no Jasmine tests were required as none of the functions I've include
 
 The website is hosted by GitHub Pages and is deployed from the master branch. You can git clone the code to run it locally on your machine.
 
-
+You can also git clone the code to run it locally on your machine via this [Milestone Project 2 Git Hub Link](https://github.com/francisillingworth/milestone-project-2)
 
 ### Content
 

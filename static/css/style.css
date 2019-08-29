@@ -1,7 +1,8 @@
-/*------------------colours*/
+/*------------------colours and fonts*/
 
 body {
     background-color: #FFFAF0;
+    font-family: century gothic, sans-serif;
 
 
 }
@@ -23,10 +24,6 @@ header {
 }
 
 #subTitle {
-    font-size: 20px;
-    font-weight: 400;
-    color: black;
-    font-family: century gothic, sans-serif;
     font-weight: 100;
     font-size: 20px;
     text-align: center;
@@ -41,7 +38,7 @@ header {
 
 h1 {
     width: 100%;
-    font-family: century gothic, sans-serif;
+
     font-weight: 100;
     font-size: 56px;
     text-align: center;
@@ -165,12 +162,6 @@ h2 {
 
 /*---------------------------------------footer*/
 
-h5 {
-    margin: 0;
-    border-bottom-style: dashed;
-    border-bottom-color: white;
-}
-
 .uppercase {
     text-transform: uppercase
 }
@@ -290,6 +281,12 @@ footer {
 .card {
     border-width: 0;
 
+}
+
+.card_text {
+    margin: 0;
+    border-bottom-style: dashed;
+    border-bottom-color: white;
 }
 
 .bottom_button {
