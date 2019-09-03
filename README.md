@@ -85,7 +85,7 @@ All content was written by myself.
 
 ## Acknowledgements
 
-
+Please note - When migrating this project to AWS Cloud 9 for editing before resubmission all prior commits have been lost. These original commits can be seen in original project submission.
 
 <strong>This is for educational use </strong>
 
